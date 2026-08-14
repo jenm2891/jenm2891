@@ -31,7 +31,7 @@ My goal is to build a career creating websites and software that allows me to wo
 
 
 <h4> 📫 How to reach me </h4>
-*  <b>**Portfolio:**</b> https://jennibee.art <br>
+*  <b>**Portfolio:**</b> https://www.jennibee.art <br>
 *   <b>**LinkedIn:**</b> https://www.linkedin.com/in/jennichavez/ <br>
 *   <b>**X(formally twitter):**</b> https://www.x.com/j3nn1b33 <br>
 *  <b>**Instagram:**</b> https://www.instagram.com/j3nn1b33 <br>
