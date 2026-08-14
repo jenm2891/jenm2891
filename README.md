@@ -20,13 +20,15 @@ My goal is to build a career creating websites and software that allows me to wo
 *   <b>**UI/UX Design:**</b> Learning Figma to improve my design-to-development workflow. <br>
 *  <b> **Data Analytics:**</b> Gaining foundational skills to better understand and utilize data.
 <br><br>
+
 <h4> 💻 Tech Stack & Tools </h4>
 *  <b> **Web & CMS:**</b> WordPress (Custom Themes), Wix, Squarespace, GoDaddy <br>
-*   <b>**Languages (Comfortable):**</b> HTML, CSS, JavaScript, PHP <br>
-*  <b> **Languages (Learning/Exploring):**</b> Python, Swift, SQL <br>
+*   <b>**Languages (Comfortable):**</b> Python, JavaScript, Java, C#, C++ <br>
+*  <b> **Languages (Learning/Exploring):**</b>  Rust, Swift, SQL <br>
 *  <b> **Tools & Deployment:**</b> Cloudflare Workers, GitHub Actions, Visual Studio Code <br>
 *  <b> **Art & Design:**</b> Clip Studio Paint, Adobe Fresco, Canva, Figma (learning) 
 <br><br>
+
 
 <h4> 📫 How to reach me </h4>
 *  <b>**Portfolio:**</b> https://jennibee.art <br>
